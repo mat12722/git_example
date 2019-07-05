@@ -7,4 +7,11 @@ contents list:
 -git commit 
 -git commit --ammend
 -git log
-
+-git checkout -- book.txt
+-git merge (branch_name || origin/branch name) 
+-git diff
+-git reset HEAD book.txt
+-git stash
+-git checkout -b branch_name
+-git stash pop --index 0
+-git checkout master
