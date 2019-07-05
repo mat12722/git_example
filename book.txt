@@ -17,3 +17,11 @@ contents list:
 -git checkout master
 -git branch -d branch_name
 -git branch
+-git remote
+-git remote -v
+-git remote add (origin || dupa) remote_adress_url
+-git remote rm(origin || dupa)
+-git pull origin master
+-git push origin master (--force)(!!)
+-git push origin -u master (upstream set)
+-
